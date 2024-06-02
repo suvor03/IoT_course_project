@@ -1,1 +1,1 @@
-# IoT_course_project
+# Дистанционное управление по телефону устройством IoT Flipper Zero
